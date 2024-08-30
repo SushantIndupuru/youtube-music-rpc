@@ -1,27 +1,27 @@
 {
-    "clientId": "appid goes here",
-    "rich_presence": {
-        "details": "test",
-        "state": "test",
-        "type":0,
-        "assets": {
-            "largeImageText": "text from hovering over image",
-            "largeImageKey": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/220px-Image_created_with_a_mobile_phone.png",
-        },
-        "buttons": {
-            "primary": {
-                "label": "button 1",
-                "url": "https://example.com/"
-            },
-            "secondary": {
-                "label": "button 2",
-                "url": "https://example.com"
-            }
-        },
-        "timestamps": {
-            "startTimestamp": 1724626236, 
-            "endTimestamp": 1724633436,
-            "useTimer": true
-        }
+  "clientId": "appid goes here",
+  "rich_presence": {
+    "details": "test",
+    "state": "test",
+    "type": 0,
+    "assets": {
+      "largeImageText": "text from hovering over image",
+      "largeImageKey": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/220px-Image_created_with_a_mobile_phone.png"
+    },
+    "buttons": {
+      "primary": {
+        "label": "button 1",
+        "url": "https://example.com/"
+      },
+      "secondary": {
+        "label": "button 2",
+        "url": "https://example.com"
+      }
+    },
+    "timestamps": {
+      "startTimestamp": 1724626236,
+      "endTimestamp": 1724633436,
+      "useTimer": true
     }
+  }
 }

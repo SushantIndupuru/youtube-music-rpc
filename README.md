@@ -2,8 +2,10 @@
 
 ## To run boilerplate:
 
-1. ```cd``` into directory
+1. `cd` into directory
 
-2. run ```node run index.js```
+2. `npm install` dependencies
 
-3. edit ```config.json``` as neededd
+3. run `npm start` to start app
+
+4. edit `config.json` as needed
